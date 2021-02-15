@@ -1,2 +1,2 @@
 # TestGit
-this is the for tstgit
+this is for testing git
